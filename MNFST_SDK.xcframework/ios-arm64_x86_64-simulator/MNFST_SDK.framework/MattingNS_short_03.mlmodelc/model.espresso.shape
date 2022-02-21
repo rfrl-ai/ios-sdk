@@ -1,0 +1,82 @@
+{
+  "layer_shapes" : {
+    "input2" : {
+      "k" : 2,
+      "w" : 512,
+      "n" : 1,
+      "h" : 512
+    },
+    "conv2d_10__activation___output" : {
+      "k" : 32,
+      "w" : 512,
+      "n" : 1,
+      "h" : 512
+    },
+    "output1" : {
+      "k" : 1,
+      "w" : 512,
+      "n" : 1,
+      "h" : 512
+    },
+    "batch_normalization_12_output" : {
+      "k" : 8,
+      "w" : 512,
+      "n" : 1,
+      "h" : 512
+    },
+    "input1" : {
+      "k" : 3,
+      "w" : 512,
+      "n" : 1,
+      "h" : 512
+    },
+    "refinement_pred_output" : {
+      "k" : 1,
+      "w" : 512,
+      "n" : 1,
+      "h" : 512
+    },
+    "conv2d_11__activation___output" : {
+      "k" : 16,
+      "w" : 512,
+      "n" : 1,
+      "h" : 512
+    },
+    "conv2d_9__activation___output" : {
+      "k" : 64,
+      "w" : 512,
+      "n" : 1,
+      "h" : 512
+    },
+    "conv2d_12__activation___output" : {
+      "k" : 8,
+      "w" : 512,
+      "n" : 1,
+      "h" : 512
+    },
+    "batch_normalization_11_output" : {
+      "k" : 16,
+      "w" : 512,
+      "n" : 1,
+      "h" : 512
+    },
+    "batch_normalization_9_output" : {
+      "k" : 64,
+      "w" : 512,
+      "n" : 1,
+      "h" : 512
+    },
+    "batch_normalization_10_output" : {
+      "k" : 32,
+      "w" : 512,
+      "n" : 1,
+      "h" : 512
+    },
+    "concatenate_3_output" : {
+      "k" : 5,
+      "w" : 512,
+      "n" : 1,
+      "h" : 512
+    }
+  }
+}
