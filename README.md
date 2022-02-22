@@ -8,6 +8,12 @@ It is used to share functionality:
 3. Automatic recognition for prohibited content.
 4. Sending creative for handy moderation for quality definitions.
 
+## Requirements
+
+- Swift 5+
+- Xcode 13.0+
+- iOS 12.0+
+
 # How to integrate
 
 1. To add a package dependency to your Xcode project, select File > Add Packages and enter its repository URL. After that click on "Add package"
