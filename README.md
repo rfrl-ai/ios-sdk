@@ -25,3 +25,5 @@ It is used to share functionality:
 2. Import MNFST_SDK and use client key for initialization
 
 <img width="746" alt="Screenshot 2022-02-22 at 15 00 12" src="https://user-images.githubusercontent.com/16333850/155128176-5613a7a7-1d7c-4392-9a7e-8dfa2d2d0a2c.png">
+
+⚠️⚠️⚠️ **WARNING** ⚠️⚠️⚠️ You need to add NSCameraUsageDescription, NSPhotoLibraryUsageDescription keys in Info.plist of your project, because we use camera and photo library for working our sdk, otherwise will be crash
