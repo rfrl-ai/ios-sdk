@@ -53,3 +53,21 @@ You need to add `NSCameraUsageDescription`, `NSPhotoLibraryUsageDescription` key
 | Max MOV file size | 150Mb |
 | Max MP4 file size | 1,5Mb |
 | Framerate | 30fps |
+
+### Public interface 
+
+**MnfstSdkManager :** 
+
+buildFlowContext - this method return context for sdk
+
+
+**MnfstFlowContext :** 
+
+buildCameraViewController - create view controller for taking picture of creatice.
+
+generateCreative - generate creative, that will be saved on device.
+
+performImageRecognition - start recognition of creative for prohibited content.
+
+performCreativeModeration - start handy moderation for quality definitions.
+
