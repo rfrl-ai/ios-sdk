@@ -1,4 +1,4 @@
-# MNFST SDK for iOS
+# MNFST SDK for iOS ![Version](https://img.shields.io/github/v/tag/mmnfst/mnfst_sdk_ios?style=plastic&label=version)
 
 MNFST SDK is a shared library.
 
@@ -41,8 +41,6 @@ You need to add `NSCameraUsageDescription`, `NSPhotoLibraryUsageDescription` key
 | Max MOV file size | 150Mb |
 | Max MP4 file size | 1,5Mb |
 | Framerate | 30fps |
-
-### Feed
 
 ### Feed
 
