@@ -1,6 +1,6 @@
 # MNFST SDK for iOS
 
-MNFST SDK is a shared library. 
+MNFST SDK is a shared library.
 
 It is used to share functionality:
 1. Taking picture for refferal creatives.
@@ -14,7 +14,7 @@ It is used to share functionality:
 - Xcode 13.0+
 - iOS 12.0+
 
-# How to integrate
+## How to integrate
 
 1. To add a package dependency to your Xcode project, select File > Add Packages and enter its repository URL. After that click on "Add package"
 
@@ -26,4 +26,32 @@ It is used to share functionality:
 
 <img width="746" alt="Screenshot 2022-02-22 at 15 00 12" src="https://user-images.githubusercontent.com/16333850/155128176-5613a7a7-1d7c-4392-9a7e-8dfa2d2d0a2c.png">
 
-⚠️⚠️⚠️ **WARNING** ⚠️⚠️⚠️ You need to add NSCameraUsageDescription, NSPhotoLibraryUsageDescription keys in Info.plist of your project, because we use camera and photo library for working our sdk, otherwise will be crash
+## ⚠️⚠️⚠️ **WARNING** ⚠️⚠️⚠️
+You need to add `NSCameraUsageDescription`, `NSPhotoLibraryUsageDescription` keys in `Info.plist` of your project, because we use camera and photo library for working our sdk, otherwise will be crash.
+
+## Creative requirements
+### Story
+
+| Option    | Value |
+|-----|-----|
+| Image/Video resoluton (front/back) | 1080х1920px |
+| Image format | PNG |
+| Video duration (MOV format with alpha channel) | 7 seconds |
+| Safe zone | 820х1920px |
+| Max MOV file size | 150Mb |
+| Max MP4 file size | 1,5Mb |
+| Framerate | 30fps |
+
+### Feed
+
+### Feed
+
+| Option    | Value |
+|-----|-----|
+| Image/Video resoluton (front/back) |  1080х1080px |
+| Image format | PNG |
+| Video duration (MOV format with alpha channel) | 7 seconds |
+| Safe zone | 820х1920px |
+| Max MOV file size | 150Mb |
+| Max MP4 file size | 1,5Mb |
+| Framerate | 30fps |
