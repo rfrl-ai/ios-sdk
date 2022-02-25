@@ -58,16 +58,16 @@ You need to add `NSCameraUsageDescription`, `NSPhotoLibraryUsageDescription` key
 
 **MnfstSdkManager :** 
 
-buildFlowContext - this method return context for sdk
+`buildFlowContext` – returns context for sdk
 
 
 **MnfstFlowContext :** 
 
-buildCameraViewController - create view controller for taking picture of creatice.
+`buildCameraViewController` - creates view controller for taking picture of creatice.
 
-generateCreative - generate creative, that will be saved on device.
+`generateCreative` - generates creative, that will be saved on device.
 
-performImageRecognition - start recognition of creative for prohibited content.
+`performImageRecognition` - starts recognition of creative for prohibited content.
 
-performCreativeModeration - start handy moderation for quality definitions.
+`performCreativeModeration` - starts handy moderation for quality definitions.
 
