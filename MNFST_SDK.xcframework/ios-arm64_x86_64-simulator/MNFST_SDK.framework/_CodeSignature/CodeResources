@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		lECUuicOilh3WYwPaPMPsMTRArk=
+		3lbTh4wTPC7SFzDNtX5x3/MwUdo=
 		</data>
 		<key>FindAFaceView.nib</key>
 		<data>
@@ -294,7 +294,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Hd1lR0LlBkigh7yOpd6RHSdop+A=
+		sdfnZQcmMy2lRUUiuyXOPL0llN0=
 		</data>
 		<key>MattingNS_short_03.mlmodelc/analytics/coremldata.bin</key>
 		<data>
@@ -330,87 +330,55 @@
 		</data>
 		<key>Modules/MNFST_SDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		IEiUzxak4hpDaehqkAPrWKNWS/0=
+		S8Buf53BITtkR5L6Gh47r2JUw/E=
 		</data>
 		<key>Modules/MNFST_SDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		+wmvMwyaGiF7wX3o1t+VWdngO60=
+		r3jrm+1AAe+GVVX0hLQv+j+rTlk=
 		</data>
 		<key>Modules/MNFST_SDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		oaBfh5XPtLrzNlxqQcvE0J2QpLw=
+		u9F+6NuMEeZI6fIwzyDgH7IXXQI=
 		</data>
 		<key>Modules/MNFST_SDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		IEiUzxak4hpDaehqkAPrWKNWS/0=
+		S8Buf53BITtkR5L6Gh47r2JUw/E=
 		</data>
 		<key>Modules/MNFST_SDK.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		+wmvMwyaGiF7wX3o1t+VWdngO60=
+		r3jrm+1AAe+GVVX0hLQv+j+rTlk=
 		</data>
 		<key>Modules/MNFST_SDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		oaBfh5XPtLrzNlxqQcvE0J2QpLw=
+		u9F+6NuMEeZI6fIwzyDgH7IXXQI=
 		</data>
 		<key>Modules/MNFST_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		nWwS+5EXeQkSbbQkLH4Sr2iw+OU=
+		sTl+nhwRYXogBzPSAF8OIAPUB0k=
 		</data>
 		<key>Modules/MNFST_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		qePcCmqABA902AhMBnujbNsXBl0=
+		Yd9fQd3ooW/YOmRCYZIdqrYRYqU=
 		</data>
 		<key>Modules/MNFST_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rW0maHUUW5bNMhWzpFJO/QMLt8A=
+		HdT+2AUg+gLXnhTPPaayHOaBOYI=
 		</data>
 		<key>Modules/MNFST_SDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		nWwS+5EXeQkSbbQkLH4Sr2iw+OU=
+		sTl+nhwRYXogBzPSAF8OIAPUB0k=
 		</data>
 		<key>Modules/MNFST_SDK.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		qePcCmqABA902AhMBnujbNsXBl0=
+		Yd9fQd3ooW/YOmRCYZIdqrYRYqU=
 		</data>
 		<key>Modules/MNFST_SDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		rW0maHUUW5bNMhWzpFJO/QMLt8A=
+		HdT+2AUg+gLXnhTPPaayHOaBOYI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		EdBo6lrzzgEwC7k9kCSJe4rzYhA=
-		</data>
-		<key>average002.mlmodelc/analytics/coremldata.bin</key>
-		<data>
-		stKvBpqrfwZtaCtpVu2zhowJp3Y=
-		</data>
-		<key>average002.mlmodelc/coremldata.bin</key>
-		<data>
-		UTy6gf1yNkAQHAGGuOP8dx2mJGc=
-		</data>
-		<key>average002.mlmodelc/metadata.json</key>
-		<data>
-		d+iAKXI6c3hnYPU+2JBhTzOBxUo=
-		</data>
-		<key>average002.mlmodelc/model.espresso.net</key>
-		<data>
-		PkfuZINIlr2h4kg9PtHMIDKPF5o=
-		</data>
-		<key>average002.mlmodelc/model.espresso.shape</key>
-		<data>
-		4Yv1I4OpLmZGsk1PtpQrDmghsWE=
-		</data>
-		<key>average002.mlmodelc/model.espresso.weights</key>
-		<data>
-		nCzuxzs/QWZoNO60i/bCa3nauCc=
-		</data>
-		<key>average002.mlmodelc/model/coremldata.bin</key>
-		<data>
-		ywn4n/q5e9oWqKg072wL3kxD++I=
-		</data>
-		<key>average002.mlmodelc/neural_network_optionals/coremldata.bin</key>
-		<data>
-		uA3l0Th1hUHF8FJlrRRKufqG0ds=
 		</data>
 		<key>class2_NS_12_ColorImage.mlmodelc/analytics/coremldata.bin</key>
 		<data>
@@ -446,7 +414,39 @@
 		</data>
 		<key>default.metallib</key>
 		<data>
-		4sDBwf5U7QXEpnIcyLoXhjZ6ZR8=
+		XqYXGNJZY427vAlbMY5ncnGAAXY=
+		</data>
+		<key>segmentation_224x224_large.mlmodelc/analytics/coremldata.bin</key>
+		<data>
+		0NNUnVggo8GuSj9Pdd8baiXXZLY=
+		</data>
+		<key>segmentation_224x224_large.mlmodelc/coremldata.bin</key>
+		<data>
+		NLr8kMuaP24nw4aOBUe4MLNz9D8=
+		</data>
+		<key>segmentation_224x224_large.mlmodelc/metadata.json</key>
+		<data>
+		paOSc+YxgQ1LdNri23u6wyadtUg=
+		</data>
+		<key>segmentation_224x224_large.mlmodelc/model.espresso.net</key>
+		<data>
+		C/X6rgH4gTnyY9qS4FYNBsxpESM=
+		</data>
+		<key>segmentation_224x224_large.mlmodelc/model.espresso.shape</key>
+		<data>
+		tGESm0R6un+Xzh3g/llBlDUJbM4=
+		</data>
+		<key>segmentation_224x224_large.mlmodelc/model.espresso.weights</key>
+		<data>
+		iviYsjXwCe3ZKOWlYzZ8pb83VOc=
+		</data>
+		<key>segmentation_224x224_large.mlmodelc/model/coremldata.bin</key>
+		<data>
+		0vNhQZN5fIP6v89eIZvYkW6lrBg=
+		</data>
+		<key>segmentation_224x224_large.mlmodelc/neural_network_optionals/coremldata.bin</key>
+		<data>
+		tkgF5pxT7RlO+9uypQti9obolyA=
 		</data>
 		<key>shortMat_loss2.mlmodelc/analytics/coremldata.bin</key>
 		<data>
@@ -487,7 +487,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TSpb6nUewbVlbJrznmHchSl2Xwkk7spglOR3l37AVCk=
+			cp7F79Wz5XgGogTiVZ5uvaMK46vBaDyorfQ6lhSh1Cc=
 			</data>
 		</dict>
 		<key>FindAFaceView.nib</key>
@@ -1047,84 +1047,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			y/O3O7+Yg/FHXVOff50ogPSJnYw0qL94jpnKdQhvIY0=
+			WIOySW1gUewy+uTveEVAfl1d7HfKyDAaPmEusBL1mNU=
 			</data>
 		</dict>
 		<key>Modules/MNFST_SDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Osc9YdJby4M81CjcleawEMoHmCWUwtWM7ygaEkvxiGc=
+			jColnTaz0694xddT47gt3JVF+XhYPeRr6KCojhWTGhg=
 			</data>
 		</dict>
 		<key>Modules/MNFST_SDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rtytL1cK7sfjdG4Er7bbPhBx1VUnJsr7ABYX8AWaI1s=
+			c7v9ohV8MM8uyOkCY//R2A3bVEPXpItqZnJhlyPJQ6s=
 			</data>
 		</dict>
 		<key>Modules/MNFST_SDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			y/O3O7+Yg/FHXVOff50ogPSJnYw0qL94jpnKdQhvIY0=
+			WIOySW1gUewy+uTveEVAfl1d7HfKyDAaPmEusBL1mNU=
 			</data>
 		</dict>
 		<key>Modules/MNFST_SDK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Osc9YdJby4M81CjcleawEMoHmCWUwtWM7ygaEkvxiGc=
+			jColnTaz0694xddT47gt3JVF+XhYPeRr6KCojhWTGhg=
 			</data>
 		</dict>
 		<key>Modules/MNFST_SDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rtytL1cK7sfjdG4Er7bbPhBx1VUnJsr7ABYX8AWaI1s=
+			c7v9ohV8MM8uyOkCY//R2A3bVEPXpItqZnJhlyPJQ6s=
 			</data>
 		</dict>
 		<key>Modules/MNFST_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cVzIBDqjLPXO447xKbZqqO9TCYk75rjzCgQDrkO97hE=
+			5EWiRH5TpKRxbYLgdfVH3l/fSNagJsIaUChrfZDz5YI=
 			</data>
 		</dict>
 		<key>Modules/MNFST_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yzo2/SKkl3kszccGKCixu79ufy6iqO3lbgiYQ1p+zDo=
+			5V5h8ufMJSSmPGFUbA8+JK1cGaYLSh4Kj4Th28RyFdA=
 			</data>
 		</dict>
 		<key>Modules/MNFST_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x2SBUBJZRT0EYVCWnwBEsI+PqTQnUJ/uBoVZbiIQ41w=
+			3KXUoVHDEtSh3VA000cjfg+C1gEcXCcPboczy8Nxvu4=
 			</data>
 		</dict>
 		<key>Modules/MNFST_SDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cVzIBDqjLPXO447xKbZqqO9TCYk75rjzCgQDrkO97hE=
+			5EWiRH5TpKRxbYLgdfVH3l/fSNagJsIaUChrfZDz5YI=
 			</data>
 		</dict>
 		<key>Modules/MNFST_SDK.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yzo2/SKkl3kszccGKCixu79ufy6iqO3lbgiYQ1p+zDo=
+			5V5h8ufMJSSmPGFUbA8+JK1cGaYLSh4Kj4Th28RyFdA=
 			</data>
 		</dict>
 		<key>Modules/MNFST_SDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x2SBUBJZRT0EYVCWnwBEsI+PqTQnUJ/uBoVZbiIQ41w=
+			3KXUoVHDEtSh3VA000cjfg+C1gEcXCcPboczy8Nxvu4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1132,62 +1132,6 @@
 			<key>hash2</key>
 			<data>
 			kbfVvxI2QpqTVHhwJpZHfC0NNi+GMRAisAsCDnzXHM4=
-			</data>
-		</dict>
-		<key>average002.mlmodelc/analytics/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			tjTq+pFPdEoRjwXWkHeTj0hn+/h05MJwj/P2Wv//l8Y=
-			</data>
-		</dict>
-		<key>average002.mlmodelc/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qbZ8xhw1FF/9rYtRxlYIjjZr7Uoqr34a2lDLQn0GL7I=
-			</data>
-		</dict>
-		<key>average002.mlmodelc/metadata.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ljnc/8j/beo1WWjIu8TyqU+hooTsL07OKTHCAOapvDI=
-			</data>
-		</dict>
-		<key>average002.mlmodelc/model.espresso.net</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6xs4HpbzXj5cHjLqnJS7VsbA8XVWXo4mgbKAJwvBu84=
-			</data>
-		</dict>
-		<key>average002.mlmodelc/model.espresso.shape</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xfcgyiJeohCqHQzQhotdaqbskaIByX3Llc5TNXh4W64=
-			</data>
-		</dict>
-		<key>average002.mlmodelc/model.espresso.weights</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			W7EikVZcJYirsES12vc4+bZIMMbEYMYQJwOPrlNNk/s=
-			</data>
-		</dict>
-		<key>average002.mlmodelc/model/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5dyN3LM4GYt7lwcO9RVnniqLVWBb4ulR7mi8PQho7bg=
-			</data>
-		</dict>
-		<key>average002.mlmodelc/neural_network_optionals/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LDTOHfI7g4xavyp/ZDfMo9MGftUJ/yXxHfaxG1grUes=
 			</data>
 		</dict>
 		<key>class2_NS_12_ColorImage.mlmodelc/analytics/coremldata.bin</key>
@@ -1250,7 +1194,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zZInwfxiqTsi+Yg59gmBm+kVYKFkk/dbuVhanpSYR6Y=
+			y+tERLXV19ALY1EXFUscNFVUuFiVuh0iewSdrDf4Xls=
+			</data>
+		</dict>
+		<key>segmentation_224x224_large.mlmodelc/analytics/coremldata.bin</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XbwfG1i9fZtFtMWUNfu+fet0BIVw8tWTP6I7PuAfBaQ=
+			</data>
+		</dict>
+		<key>segmentation_224x224_large.mlmodelc/coremldata.bin</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5hHFVBlIvF/dkN7O56jY84UjqfW8gdk49wlOhxfir4E=
+			</data>
+		</dict>
+		<key>segmentation_224x224_large.mlmodelc/metadata.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OO73q4sz6KgOmF5uS+HxtVNbfUKaJdQf6SK92G4nW/s=
+			</data>
+		</dict>
+		<key>segmentation_224x224_large.mlmodelc/model.espresso.net</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			95vHuMdwC48APacEoQ29ObhgGMDVVvel/jWcPlDESYo=
+			</data>
+		</dict>
+		<key>segmentation_224x224_large.mlmodelc/model.espresso.shape</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9Fe1vPUOttdJBS1ubnvvZV1md/P7Kx9CQN6/t28Vwvk=
+			</data>
+		</dict>
+		<key>segmentation_224x224_large.mlmodelc/model.espresso.weights</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jDukUJIHsSIuaV9xkcCvhTcvLxD1brrsQuRVJ3P33jE=
+			</data>
+		</dict>
+		<key>segmentation_224x224_large.mlmodelc/model/coremldata.bin</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+ktqyKBdV8YFAHTyM3g1wtE488Jy1mHcIx3jNNcLruE=
+			</data>
+		</dict>
+		<key>segmentation_224x224_large.mlmodelc/neural_network_optionals/coremldata.bin</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WTG9U2xFUClKISxvyNPBvuddqBeYC6C2cchgPa+zYjg=
 			</data>
 		</dict>
 		<key>shortMat_loss2.mlmodelc/analytics/coremldata.bin</key>
