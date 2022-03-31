@@ -1,4 +1,4 @@
-# MNFST SDK for iOS ![Version](https://img.shields.io/github/v/tag/mmnfst/mnfst_sdk_ios?style=plastic&label=version)
+# EFRL_AI SDK for iOS ![Version](https://img.shields.io/github/v/tag/mmnfst/mnfst_sdk_ios?style=plastic&label=version)
 
 MNFST SDK is a shared library.
 
@@ -11,7 +11,7 @@ It is used to share functionality:
 ## Requirements
 
 - Swift 5+
-- Xcode 13.0+
+- Xcode 14.0+
 - iOS 12.0+
 
 ## How to integrate
