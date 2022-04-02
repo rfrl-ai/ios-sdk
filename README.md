@@ -1,6 +1,6 @@
-# EFRL_AI SDK for iOS ![Version](https://img.shields.io/github/v/tag/mmnfst/mnfst_sdk_ios?style=plastic&label=version)
+# RFRL_AI SDK for iOS ![Version](https://img.shields.io/github/v/tag/mmnfst/mnfst_sdk_ios?style=plastic&label=version)
 
-MNFST SDK is a shared library.
+RFRL_AI SDK is a shared library.
 
 It is used to share functionality:
 1. Taking picture for refferal creatives.
@@ -12,7 +12,7 @@ It is used to share functionality:
 
 - Swift 5+
 - Xcode 14.0+
-- iOS 12.0+
+- iOS 14.0+
 
 ## How to integrate
 
