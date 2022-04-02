@@ -1,0 +1,11 @@
+framework module RFRL_AI_SDK {
+  umbrella header "RFRL_AI_SDK.h"
+
+  export *
+  module * { export * }
+}
+
+module RFRL_AI_SDK.Swift {
+    header "RFRL_AI_SDK-Swift.h"
+    requires objc
+}

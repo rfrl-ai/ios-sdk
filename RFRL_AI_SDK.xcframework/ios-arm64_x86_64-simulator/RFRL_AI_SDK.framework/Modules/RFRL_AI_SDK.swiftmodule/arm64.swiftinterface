@@ -1,0 +1,118 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
+// swift-module-flags: -target arm64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name RFRL_AI_SDK
+import AVFoundation
+import CoreGraphics
+import CoreImage
+import CoreML
+import CoreMedia
+import CoreVideo
+import Dispatch
+import Foundation
+import MediaPlayer
+import Metal
+import MetalKit
+import MetalPerformanceShaders
+import MobileCoreServices
+import Photos
+@_exported import RFRL_AI_SDK
+import Swift
+import SystemConfiguration
+import UIKit.UIColor
+import UIKit
+import VideoToolbox
+import Vision
+import _Concurrency
+public class RFRLSdkManager {
+  public class func initialize(clientTokenString: Swift.String)
+  public init()
+  public func buildFlowContext() -> RFRL_AI_SDK.RFRLFlowContext
+  public func performImageRecognition(image: UIKit.UIImage, completion: @escaping (RFRL_AI_SDK.RecognitionResult?) -> Swift.Void)
+  public func performMediaModeration(media: RFRL_AI_SDK.RFRLMedia, completion: @escaping (RFRL_AI_SDK.ModerationResult?) -> Swift.Void)
+  @objc deinit
+}
+public enum RFRLMedia {
+  case image(UIKit.UIImage)
+  case video(RFRL_AI_SDK.RFRLVideo)
+}
+public struct RFRLVideo {
+  public let url: Foundation.URL
+  public var creativeId: Swift.Int?
+  public init(url: Foundation.URL)
+  public init(url: Foundation.URL, creativeId: Swift.Int?)
+}
+extension CoreGraphics.CGSize : Swift.Hashable {
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public struct RecognitionResult {
+  public enum Status : Swift.String {
+    case pending
+    case approved
+    case declined
+    public init?(rawValue: Swift.String)
+    public typealias RawValue = Swift.String
+    public var rawValue: Swift.String {
+      get
+    }
+  }
+  public let status: RFRL_AI_SDK.RecognitionResult.Status
+  public let reasons: [Swift.String : Swift.String]
+}
+public struct ModerationResult {
+  public let status: RFRL_AI_SDK.ModerationResult.Status
+  public enum Status {
+    case pending
+    case approved
+    case declined(RFRL_AI_SDK.ModerationResult.Reason?)
+    case expired
+    case error
+    public var rejectReason: RFRL_AI_SDK.ModerationResult.Reason? {
+      get
+    }
+  }
+  public enum Reason {
+    case screenOrPaper
+    case agePredict
+    case tooDark
+    case celebrityRecognition
+    case picOrMeme
+    case otherBrands
+    case beauty
+    case explicit, weapon, gun, nude
+    case badComposition
+    case lowQuality
+    case wrongGender
+    case forbiddenStuff
+    case other
+  }
+}
+extension RFRL_AI_SDK.ModerationResult.Reason : Swift.RawRepresentable {
+  public typealias RawValue = Swift.String
+  public init?(rawValue: RFRL_AI_SDK.ModerationResult.Reason.RawValue)
+  public var rawValue: RFRL_AI_SDK.ModerationResult.Reason.RawValue {
+    get
+  }
+}
+@objc public protocol RFRLFlowContextDelegate {
+  @objc optional var buttonBackgroundColor: UIKit.UIColor { get }
+  @objc func didCloseCameraViewController()
+  @objc func doneButtonTapped()
+}
+@_hasMissingDesignatedInitializers public class RFRLFlowContext {
+  public var originalPhoto: UIKit.UIImage? {
+    get
+  }
+  @objc deinit
+  public func buildCameraViewController(delegate: RFRL_AI_SDK.RFRLFlowContextDelegate?) -> UIKit.UIViewController
+  public func generateCreative(completion: @escaping (RFRL_AI_SDK.RFRLMedia?) -> Swift.Void)
+  public func performImageRecognition(completion: @escaping (RFRL_AI_SDK.RecognitionResult?) -> Swift.Void)
+  public func performCreativeModeration(completion: @escaping (RFRL_AI_SDK.ModerationResult?) -> Swift.Void)
+}
+extension RFRL_AI_SDK.RecognitionResult.Status : Swift.Equatable {}
+extension RFRL_AI_SDK.RecognitionResult.Status : Swift.Hashable {}
+extension RFRL_AI_SDK.RecognitionResult.Status : Swift.RawRepresentable {}
+extension RFRL_AI_SDK.ModerationResult.Reason : Swift.Equatable {}
+extension RFRL_AI_SDK.ModerationResult.Reason : Swift.Hashable {}

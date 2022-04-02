@@ -1,0 +1,1957 @@
+{
+  "layer_shapes" : {
+    "model_1\/re_lu_28\/Relu6" : {
+      "k" : 672,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/expanded_conv_10\/squeeze_excite\/Mul\/mul" : {
+      "k" : 480,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_11\/Relu6__relu6_threshold6__" : {
+      "k" : 120,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/re_lu_20\/Relu6__relu6_neg__" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.math.multiply_28\/Mul" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.math.multiply_11\/Mul" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_14\/Relu6__relu6_relu__" : {
+      "k" : 120,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/re_lu_23\/Relu6__relu6_neg__" : {
+      "k" : 480,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_22\/Relu6" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/multiply_1\/mul" : {
+      "k" : 240,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/expanded_conv_1\/project\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 24,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/tf.math.multiply_8\/Mul" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/expanded_conv_8\/expand\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/expanded_conv_12\/expand\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/expanded_conv_8\/Add\/add" : {
+      "k" : 80,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_14\/Relu6__relu6_threshold6__" : {
+      "k" : 120,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/tf.reshape_6\/Reshape" : {
+      "k" : 1,
+      "w" : 8,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 50176
+    },
+    "model_1\/batch_normalization_1\/FusedBatchNormV3_nchw" : {
+      "k" : 32,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/tf.math.sigmoid_3\/Sigmoid" : {
+      "k" : 224,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/re_lu_21\/Relu6" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.__operators__.add_18\/AddV2" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/activation_12\/Relu" : {
+      "k" : 32,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/re_lu_7\/Relu" : {
+      "k" : 72,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/activation_4\/Relu" : {
+      "k" : 32,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/instance_normalization\/batchnorm\/add_1" : {
+      "k" : 64,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.reshape_7\/Reshape" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 50176
+    },
+    "model_1\/tf.math.multiply_38\/Mul" : {
+      "k" : 16,
+      "w" : 224,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "Identity" : {
+      "k" : 224,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/expanded_conv_7\/depthwise\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 200,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.image.resize_8\/resize\/ResizeBilinear_channel_first_upsample_bilinear" : {
+      "k" : 32,
+      "w" : 224,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/expanded_conv_11\/squeeze_excite\/Relu\/Relu" : {
+      "k" : 168,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/re_lu_3\/Relu" : {
+      "k" : 64,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/re_lu_17\/Relu6__relu6_threshold6__" : {
+      "k" : 200,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.concat_3\/concat" : {
+      "k" : 64,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/softmax_3\/Softmax" : {
+      "k" : 1,
+      "w" : 8,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "model_1\/tf.stack\/stack" : {
+      "k" : 14,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/expanded_conv_5\/squeeze_excite\/Mul\/mul" : {
+      "k" : 120,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/multiply_2\/mul" : {
+      "k" : 240,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_18\/Relu6" : {
+      "k" : 200,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/instance_normalization_7\/batchnorm\/add_1" : {
+      "k" : 32,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/re_lu_11\/Relu6__relu6_relu__" : {
+      "k" : 120,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/tf.math.multiply_9\/Mul" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/expanded_conv_11\/expand\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "input_1" : {
+      "k" : 3,
+      "w" : 224,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/re_lu_20\/Relu6__relu6_threshold6__" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_27\/Relu6__relu6_relu__" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.math.multiply_39\/Mul" : {
+      "k" : 224,
+      "w" : 16,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/tf.reshape_8\/Reshape" : {
+      "k" : 1,
+      "w" : 8,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/expanded_conv_4\/project\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 40,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/activation_13\/Relu" : {
+      "k" : 32,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/re_lu_28\/Relu6__relu6_neg__" : {
+      "k" : 672,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/tf.__operators__.add_4\/AddV2" : {
+      "k" : 240,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/expanded_conv_10\/squeeze_excite\/Relu\/Relu" : {
+      "k" : 120,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/re_lu_27\/Relu6" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/batch_normalization_9\/FusedBatchNormV3_nchw" : {
+      "k" : 32,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/re_lu_18\/Relu6__relu6_neg__" : {
+      "k" : 200,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_23\/Relu6__relu6_threshold6__" : {
+      "k" : 480,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/batch_normalization_4\/FusedBatchNormV3_nchw" : {
+      "k" : 32,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/expanded_conv_10\/project\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 112,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.math.multiply_1\/Mul" : {
+      "k" : 72,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/conv2d_24\/Conv2Dx" : {
+      "k" : 16,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/expanded_conv_9\/expand\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/expanded_conv_10\/expand\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 480,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_8\/Relu6__relu6_relu__" : {
+      "k" : 72,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/instance_normalization_2\/batchnorm\/add_1" : {
+      "k" : 32,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/multiply_3\/mul" : {
+      "k" : 200,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/instance_normalization_10\/batchnorm\/add_1" : {
+      "k" : 32,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/re_lu\/Relu6" : {
+      "k" : 16,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/expanded_conv_11\/squeeze_excite\/AvgPool\/Mean" : {
+      "k" : 672,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/activation_14\/Relu" : {
+      "k" : 16,
+      "w" : 224,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/re_lu_16\/Relu6__relu6_relu__" : {
+      "k" : 240,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_19\/Relu6__relu6_relu__" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_21\/Relu6__relu6_relu__" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu\/Relu6__relu6_relu__" : {
+      "k" : 16,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/re_lu_24\/Relu6__relu6_relu__" : {
+      "k" : 480,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_26\/Relu6__relu6_threshold6__" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_20\/Relu6" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/expanded_conv_7\/project\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 80,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/expanded_conv_11\/squeeze_excite\/Mul\/mul" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_22\/Relu6__relu6_neg__" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.reshape_9\/Reshape" : {
+      "k" : 1,
+      "w" : 8,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "model_1\/re_lu_25\/Relu6__relu6_neg__" : {
+      "k" : 480,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/tf.math.multiply_2\/Mul" : {
+      "k" : 120,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/tf.concat_1\/concat" : {
+      "k" : 35,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/global_max_pooling2d\/Max" : {
+      "k" : 672,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/re_lu_17\/Relu6" : {
+      "k" : 200,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_29\/Relu6__relu6_threshold6__" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_15\/Relu6__relu6_neg__" : {
+      "k" : 240,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/expanded_conv_3\/squeeze_excite\/AvgPool\/Mean" : {
+      "k" : 72,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/re_lu_10\/Relu" : {
+      "k" : 120,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/expanded_conv_5\/squeeze_excite\/AvgPool\/Mean" : {
+      "k" : 120,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/tf.__operators__.add_5\/AddV2" : {
+      "k" : 240,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_11\/Relu6" : {
+      "k" : 120,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/tf.concat_6\/concat" : {
+      "k" : 35,
+      "w" : 224,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/activation\/Sigmoid" : {
+      "k" : 672,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/multiply_4\/mul" : {
+      "k" : 200,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/expanded_conv\/project\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 16,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/tf.reshape_10\/Reshape" : {
+      "k" : 1,
+      "w" : 8,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 50176
+    },
+    "model_1\/re_lu_6\/Relu" : {
+      "k" : 72,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/conv2d_23\/Conv2Dx" : {
+      "k" : 8,
+      "w" : 224,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/multiply\/mul" : {
+      "k" : 16,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/instance_normalization_1\/batchnorm\/add_1" : {
+      "k" : 32,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/re_lu_26\/Relu6" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/activation_2\/Relu" : {
+      "k" : 32,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/tf.__operators__.add_30\/AddV2" : {
+      "k" : 224,
+      "w" : 16,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/expanded_conv_4\/squeeze_excite\/AvgPool\/Mean" : {
+      "k" : 120,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/multiply_13\/mul" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/softmax_2\/Softmax" : {
+      "k" : 1,
+      "w" : 50176,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "model_1\/instance_normalization_6\/batchnorm\/add_1" : {
+      "k" : 32,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/re_lu_2\/Relu" : {
+      "k" : 64,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/expanded_conv_11\/Add\/add" : {
+      "k" : 112,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/expanded_conv_5\/Add\/add" : {
+      "k" : 40,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/tf.math.multiply_3\/Mul" : {
+      "k" : 120,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/expanded_conv_3\/squeeze_excite\/Relu\/Relu" : {
+      "k" : 24,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/conv2d\/Relu" : {
+      "k" : 168,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/expanded_conv_4\/squeeze_excite\/Mul\/mul" : {
+      "k" : 120,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/re_lu_16\/Relu6__relu6_threshold6__" : {
+      "k" : 240,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.__operators__.add\/AddV2" : {
+      "k" : 16,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/expanded_conv_3\/project\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 40,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/multiply_5\/mul" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_8\/Relu6" : {
+      "k" : 72,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/tf.math.reduce_max\/Max" : {
+      "k" : 1,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 14
+    },
+    "model_1\/expanded_conv_6\/depthwise\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 240,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/multiply_12\/mul" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/batch_normalization_7\/FusedBatchNormV3_nchw" : {
+      "k" : 32,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/re_lu_19\/Relu6__relu6_threshold6__" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/activation_9\/Relu" : {
+      "k" : 32,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/batch_normalization_2\/FusedBatchNormV3_nchw" : {
+      "k" : 32,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/global_average_pooling2d_2\/Mean" : {
+      "k" : 1,
+      "w" : 8,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/tf.__operators__.add_6\/AddV2" : {
+      "k" : 200,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_29\/Relu6__relu6_relu__" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/expanded_conv_7\/Add\/add" : {
+      "k" : 80,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_26\/Relu6__relu6_relu__" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_16\/Relu6" : {
+      "k" : 240,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_22\/Relu6__relu6_threshold6__" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/activation_1\/Relu" : {
+      "k" : 64,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/multiply_11\/mul" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/instance_normalization_5\/batchnorm\/add_1" : {
+      "k" : 64,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/multiply_6\/mul" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/expanded_conv_5\/squeeze_excite\/Relu\/Relu" : {
+      "k" : 32,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/re_lu_25\/Relu6" : {
+      "k" : 480,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/re_lu_25\/Relu6__relu6_threshold6__" : {
+      "k" : 480,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/tf.image.resize_2\/resize\/ResizeBilinear_channel_first_upsample_bilinear" : {
+      "k" : 3,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/re_lu_27\/Relu6__relu6_neg__" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/expanded_conv_9\/Add\/add" : {
+      "k" : 80,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/multiply_10\/mul" : {
+      "k" : 480,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.reshape_11\/Reshape" : {
+      "k" : 224,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/re_lu_17\/Relu6__relu6_neg__" : {
+      "k" : 200,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_9\/Relu" : {
+      "k" : 120,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/batch_normalization_5\/FusedBatchNormV3_nchw" : {
+      "k" : 64,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/re_lu_18\/Relu6__relu6_relu__" : {
+      "k" : 200,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_28\/Relu6__relu6_threshold6__" : {
+      "k" : 672,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/re_lu_23\/Relu6__relu6_relu__" : {
+      "k" : 480,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/activation_8\/Relu" : {
+      "k" : 32,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/conv2d_2\/Conv2Dx" : {
+      "k" : 1,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.math.multiply_4\/Mul" : {
+      "k" : 240,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/conv2d_22\/Conv2Dx" : {
+      "k" : 1,
+      "w" : 224,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/Conv\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 16,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/re_lu_5\/Relu" : {
+      "k" : 72,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/multiply_7\/mul" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.__operators__.add_7\/AddV2" : {
+      "k" : 200,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "conv_0" : {
+      "k" : 1,
+      "w" : 224,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/expanded_conv_10\/squeeze_excite\/AvgPool\/Mean" : {
+      "k" : 480,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/re_lu_1\/Relu" : {
+      "k" : 16,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/expanded_conv_6\/project\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 80,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_15\/Relu6" : {
+      "k" : 240,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/re_lu_13\/Relu" : {
+      "k" : 120,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/tf.image.resize_3\/resize\/ResizeBilinear_channel_first_upsample_bilinear" : {
+      "k" : 32,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/re_lu_21\/Relu6__relu6_neg__" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_24\/Relu6__relu6_neg__" : {
+      "k" : 480,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.concat_2\/concat" : {
+      "k" : 99,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/tf.__operators__.add_10\/AddV2" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/expanded_conv_3\/squeeze_excite\/Mul\/mul" : {
+      "k" : 72,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/conv2d_1\/BiasAdd_1" : {
+      "k" : 672,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/tf.math.multiply_5\/Mul" : {
+      "k" : 240,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_11\/Relu6__relu6_neg__" : {
+      "k" : 120,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/re_lu_14\/Relu6__relu6_neg__" : {
+      "k" : 120,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/re_lu_8\/Relu6__relu6_neg__" : {
+      "k" : 72,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/re_lu_24\/Relu6" : {
+      "k" : 480,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_20\/Relu6__relu6_relu__" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_15\/Relu6__relu6_relu__" : {
+      "k" : 240,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/instance_normalization_11\/batchnorm\/add_1" : {
+      "k" : 16,
+      "w" : 224,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "transpose_205__reduction_axis__1" : {
+      "k" : 1,
+      "w" : 8,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/tf.math.multiply\/Mul" : {
+      "k" : 16,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/multiply_8\/mul" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/expanded_conv_2\/Add\/add" : {
+      "k" : 24,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/activation_7\/Relu" : {
+      "k" : 64,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/expanded_conv_9\/depthwise\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.__operators__.add_11\/AddV2" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/batch_normalization_11\/FusedBatchNormV3_nchw" : {
+      "k" : 16,
+      "w" : 224,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/expanded_conv_11\/depthwise\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.linalg.matmul_2\/MatMul" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 8
+    },
+    "model_1\/expanded_conv_6\/expand\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 240,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/instance_normalization_4\/batchnorm\/add_1" : {
+      "k" : 32,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/expanded_conv_9\/project\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 80,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/expanded_conv_10\/depthwise\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 480,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.math.multiply_6\/Mul" : {
+      "k" : 200,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/expanded_conv\/Add\/add" : {
+      "k" : 16,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/tf.__operators__.add_12\/AddV2" : {
+      "k" : 480,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.__operators__.add_8\/AddV2" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.image.resize_4\/resize\/ResizeBilinear_channel_first_upsample_bilinear" : {
+      "k" : 32,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/instance_normalization_9\/batchnorm\/add_1" : {
+      "k" : 32,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/expanded_conv_2\/project\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 24,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/expanded_conv_4\/Add\/add" : {
+      "k" : 40,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/re_lu_15\/Relu6__relu6_threshold6__" : {
+      "k" : 240,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/multiply_9\/mul" : {
+      "k" : 480,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_29\/Relu6__relu6_neg__" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_28\/Relu6__relu6_relu__" : {
+      "k" : 672,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/re_lu_24\/Relu6__relu6_threshold6__" : {
+      "k" : 480,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/expanded_conv_11\/project\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 112,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/batch_normalization_10\/FusedBatchNormV3_nchw" : {
+      "k" : 32,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/re_lu_14\/Relu6" : {
+      "k" : 120,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/conv2d\/Relu_1" : {
+      "k" : 168,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/re_lu_8\/Relu6__relu6_threshold6__" : {
+      "k" : 72,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/tf.__operators__.add_13\/AddV2" : {
+      "k" : 480,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/batch_normalization\/FusedBatchNormV3_nchw" : {
+      "k" : 64,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.math.multiply_18\/Mul" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.math.reduce_mean\/Mean" : {
+      "k" : 1,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 14
+    },
+    "model_1\/tf.math.reduce_max\/Max_presqueeze" : {
+      "k" : 14,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/activation_6\/Relu" : {
+      "k" : 32,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/conv2d_26\/Conv2Dx" : {
+      "k" : 8,
+      "w" : 224,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/re_lu_29\/Relu6" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_18\/Relu6__relu6_threshold6__" : {
+      "k" : 200,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.math.multiply_7\/Mul" : {
+      "k" : 200,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_27\/Relu6__relu6_threshold6__" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "transpose_209" : {
+      "k" : 14,
+      "w" : 672,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_4\/Relu" : {
+      "k" : 72,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/re_lu_23\/Relu6" : {
+      "k" : 480,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.math.multiply_16\/Mul" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_12\/Relu" : {
+      "k" : 120,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/re_lu_21\/Relu6__relu6_threshold6__" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "transpose_208" : {
+      "k" : 2,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.linalg.matmul_3\/MatMul" : {
+      "k" : 1,
+      "w" : 50176,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "model_1\/expanded_conv_7\/expand\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 200,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/conv2d_2\/Sigmoid" : {
+      "k" : 1,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "transpose_207" : {
+      "k" : 224,
+      "w" : 8,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/expanded_conv_4\/squeeze_excite\/Relu\/Relu" : {
+      "k" : 32,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/expanded_conv_5\/project\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 40,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "model_1\/tf.math.multiply_17\/Mul" : {
+      "k" : 672,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/tf.math.multiply_14\/Mul" : {
+      "k" : 480,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/conv2d_1\/BiasAdd" : {
+      "k" : 672,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "transpose_206" : {
+      "k" : 224,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/re_lu_26\/Relu6__relu6_neg__" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_17\/Relu6__relu6_relu__" : {
+      "k" : 200,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/expanded_conv_8\/depthwise\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_25\/Relu6__relu6_relu__" : {
+      "k" : 480,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/tf.__operators__.add_9\/AddV2" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_22\/Relu6__relu6_relu__" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.math.sigmoid_2\/Sigmoid" : {
+      "k" : 16,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "transpose_205" : {
+      "k" : 224,
+      "w" : 8,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/tf.__operators__.add_15\/AddV2" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.__operators__.add_28\/AddV2" : {
+      "k" : 672,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/re_lu_16\/Relu6__relu6_neg__" : {
+      "k" : 240,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu_19\/Relu6__relu6_neg__" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "transpose_204" : {
+      "k" : 224,
+      "w" : 8,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/tf.math.multiply_15\/Mul" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.math.multiply_12\/Mul" : {
+      "k" : 480,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.math.multiply_29\/Mul" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "transpose_199" : {
+      "k" : 224,
+      "w" : 16,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/batch_normalization_6\/FusedBatchNormV3_nchw" : {
+      "k" : 32,
+      "w" : 56,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 56
+    },
+    "model_1\/tf.math.reduce_mean\/Mean_presqueeze" : {
+      "k" : 14,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "transpose_203" : {
+      "k" : 1,
+      "w" : 50176,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "transpose_198" : {
+      "k" : 16,
+      "w" : 224,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/tf.concat_5\/concat" : {
+      "k" : 64,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/re_lu_19\/Relu6" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu\/Relu6__relu6_threshold6__" : {
+      "k" : 16,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "model_1\/conv2d_25\/Conv2Dx" : {
+      "k" : 8,
+      "w" : 224,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "transpose_202" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 50176
+    },
+    "model_1\/tf.image.resize\/resize\/ResizeBilinear_channel_first_upsample_bilinear" : {
+      "k" : 64,
+      "w" : 28,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 28
+    },
+    "transpose_197" : {
+      "k" : 224,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/global_average_pooling2d\/Mean" : {
+      "k" : 672,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/tf.__operators__.add_16\/AddV2" : {
+      "k" : 672,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.math.multiply_13\/Mul" : {
+      "k" : 480,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/tf.math.multiply_10\/Mul" : {
+      "k" : 184,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    },
+    "model_1\/re_lu\/Relu6__relu6_neg__" : {
+      "k" : 16,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "transpose_201" : {
+      "k" : 224,
+      "w" : 16,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 224
+    },
+    "model_1\/tf.image.resize_7\/resize\/ResizeBilinear_channel_first_upsample_bilinear" : {
+      "k" : 32,
+      "w" : 112,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 112
+    },
+    "transpose_200" : {
+      "k" : 8,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "model_1\/expanded_conv_8\/project\/BatchNorm\/FusedBatchNormV3_nchw" : {
+      "k" : 80,
+      "w" : 14,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 14
+    }
+  }
+}
