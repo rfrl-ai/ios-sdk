@@ -56,12 +56,12 @@ You need to add `NSCameraUsageDescription`, `NSPhotoLibraryUsageDescription` key
 
 ### Public interface 
 
-**MnfstSdkManager :** 
+**RFRLSdkManager :** 
 
 `buildFlowContext` – returns context for sdk
 
 
-**MnfstFlowContext :** 
+**RFRLFlowContext :** 
 
 `buildCameraViewController` - creates view controller for taking picture of creatice.
 
