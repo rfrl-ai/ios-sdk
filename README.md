@@ -1,4 +1,4 @@
-# RFRL_AI SDK for iOS ![Version](https://img.shields.io/github/v/tag/mmnfst/mnfst_sdk_ios?style=plastic&label=version)
+# RFRL_AI SDK for iOS ![Version](https://img.shields.io/github/v/tag/rfrl-ai/ios-sdk?style=plastic&label=version)
 
 RFRL_AI SDK is a shared library.
 
