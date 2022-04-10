@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		3lbTh4wTPC7SFzDNtX5x3/MwUdo=
+		Lzw088s0GgrovJBfimVYV+bGysg=
 		</data>
 		<key>FindAFaceView.nib</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>Headers/RFRL_AI_SDK-Swift.h</key>
 		<data>
-		a876pH4jJH/V1LV+LcLeoZ7LyL0=
+		l2ZbDAtz2sts8YtKoVB9csYL4jI=
 		</data>
 		<key>Headers/RFRL_AI_SDK.h</key>
 		<data>
@@ -294,7 +294,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		si2yB0qyogoNndEOPlR4aPGuCJM=
+		3AyVAIcG8+KINvzsLSYDC8g/MXw=
 		</data>
 		<key>MattingNS_short_03.mlmodelc/analytics/coremldata.bin</key>
 		<data>
@@ -330,51 +330,27 @@
 		</data>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		JYBeMi9Oc+h8vF9ykloO5CxwEbc=
+		3kqTbNRUvltuXc1Nh8vRAW5aoME=
 		</data>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		TT9lUmo2/ZaddqL8tXfB3s8mUFE=
+		hABaNPS/iDHQ11fENl3lkVXMQps=
 		</data>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		76m/sTFUAVOalvn06DZX4BdPsYc=
-		</data>
-		<key>Modules/RFRL_AI_SDK.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		JYBeMi9Oc+h8vF9ykloO5CxwEbc=
-		</data>
-		<key>Modules/RFRL_AI_SDK.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		TT9lUmo2/ZaddqL8tXfB3s8mUFE=
-		</data>
-		<key>Modules/RFRL_AI_SDK.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		76m/sTFUAVOalvn06DZX4BdPsYc=
+		u1ZuW3Hp0VXQicslTYy+puVHwic=
 		</data>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		R1O+VsUEYgghcFX+r+PYP91OfNk=
+		kj6SDOGmGu+KDvaW+h5L1CyjMYo=
 		</data>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		JBCGAp/9cMlrwct25L+FmG84j8Y=
+		yQwJQuAJ8nmayiuA7SbZnYwX79w=
 		</data>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		jJS+7hPBcViLyMptBLro9mhQnFA=
-		</data>
-		<key>Modules/RFRL_AI_SDK.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		R1O+VsUEYgghcFX+r+PYP91OfNk=
-		</data>
-		<key>Modules/RFRL_AI_SDK.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		JBCGAp/9cMlrwct25L+FmG84j8Y=
-		</data>
-		<key>Modules/RFRL_AI_SDK.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		jJS+7hPBcViLyMptBLro9mhQnFA=
+		jKuG31YColK6aum2cWJt7wc4P3A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -446,7 +422,7 @@
 		</data>
 		<key>default.metallib</key>
 		<data>
-		XqYXGNJZY427vAlbMY5ncnGAAXY=
+		yHA9iL81Q2Ed1OBis/2GYbjoS8U=
 		</data>
 		<key>human_segmentation_224x224.mlmodelc/analytics/coremldata.bin</key>
 		<data>
@@ -519,7 +495,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cp7F79Wz5XgGogTiVZ5uvaMK46vBaDyorfQ6lhSh1Cc=
+			pxl9nJsqkAC3njQJF62TJKG/p48xPZkvXl8mwu/CGqo=
 			</data>
 		</dict>
 		<key>FindAFaceView.nib</key>
@@ -764,7 +740,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+/f4VfITFSrOdlHsBf6NNKAnclv5ZFBIV9c38p9GTN0=
+			faNQbQwyDDAsV1oDl9jzyO2f1Rj15WCz3G6MIUoQFvs=
 			</data>
 		</dict>
 		<key>Headers/RFRL_AI_SDK.h</key>
@@ -1079,84 +1055,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fd8FXnDRDht8OlipUQE9m4k0Fr3Jx9nstw09B66FKZ8=
+			pIVUMREw5I8kVjFMRu4J/eRiG6MLDtFe5fJ46qTgIoA=
 			</data>
 		</dict>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ShU6Re0oGi8j0KbUbWd3FQTyg70jFO0KANpRN6JSM/c=
+			qCqHi9Jbv0VpV5dbl5X68G/ZlFocnEoHdzMhGKbECNU=
 			</data>
 		</dict>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4dVsPK2c04IjV/NC2M44utwO70IwtDzNdmwi9wipBRw=
-			</data>
-		</dict>
-		<key>Modules/RFRL_AI_SDK.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fd8FXnDRDht8OlipUQE9m4k0Fr3Jx9nstw09B66FKZ8=
-			</data>
-		</dict>
-		<key>Modules/RFRL_AI_SDK.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ShU6Re0oGi8j0KbUbWd3FQTyg70jFO0KANpRN6JSM/c=
-			</data>
-		</dict>
-		<key>Modules/RFRL_AI_SDK.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4dVsPK2c04IjV/NC2M44utwO70IwtDzNdmwi9wipBRw=
+			5SlEL6PN+pgeowsBkPo/ZFSzmxlR+mRUMnbv236wkNM=
 			</data>
 		</dict>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vTsnlpNO6jiH3R8WQoUIAOAUfL0N9XdqW7pQk1h6RZ4=
+			5NobelWMx9FA4hxYFO0S/HjQmkJkwvAG/MkpYS2E1vY=
 			</data>
 		</dict>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			utgnlOdjheGE2rJsPjIBARNxvYcHYkVHGSw/u0/YIPA=
+			4FZ+PT7kDVHkcJJjYvWrXRDPwNm+cSjcjZfLWr4UVng=
 			</data>
 		</dict>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			omgx3fs4GKbk96EsdZ+p0c8bUcfyZxjfOI8D8O8K+IM=
-			</data>
-		</dict>
-		<key>Modules/RFRL_AI_SDK.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			vTsnlpNO6jiH3R8WQoUIAOAUfL0N9XdqW7pQk1h6RZ4=
-			</data>
-		</dict>
-		<key>Modules/RFRL_AI_SDK.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			utgnlOdjheGE2rJsPjIBARNxvYcHYkVHGSw/u0/YIPA=
-			</data>
-		</dict>
-		<key>Modules/RFRL_AI_SDK.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			omgx3fs4GKbk96EsdZ+p0c8bUcfyZxjfOI8D8O8K+IM=
+			p3EuOFGpsUNDC5m8xk/8oqaOl7E3bTv+2rgw02u1nRk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1282,7 +1216,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			y+tERLXV19ALY1EXFUscNFVUuFiVuh0iewSdrDf4Xls=
+			hYVdE+3LvIFuEHCi8Y9DEXYRCJo9u9a9inNmb0B0tlA=
 			</data>
 		</dict>
 		<key>human_segmentation_224x224.mlmodelc/analytics/coremldata.bin</key>
