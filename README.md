@@ -16,6 +16,8 @@ It is used to share functionality:
 
 ## How to integrate
 
+### Swift Package Manager
+
 1. To add a package dependency to your Xcode project, select File > Add Packages and enter its repository URL. After that click on "Add package"
 
 <img width="844" alt="Screenshot 2022-04-02 at 18 00 27" src="https://user-images.githubusercontent.com/16333850/161392355-897e8228-f4f8-4faa-9ca4-53e56e1d4e7c.png">
@@ -25,6 +27,14 @@ It is used to share functionality:
 2. Import MNFST_SDK and use client key for initialization
 
 <img width="657" alt="Screenshot 2022-04-02 at 19 28 48" src="https://user-images.githubusercontent.com/16333850/161392389-c456ee32-49d3-4914-b83e-2e1d75427614.png">
+
+### Cocoapods
+
+[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate RFRL into your Xcode project using CocoaPods, specify it in your `Podfile`:
+
+```ruby
+pod 'RFRL'
+```
 
 ## ⚠️⚠️⚠️ **WARNING** ⚠️⚠️⚠️
 You need to add `NSCameraUsageDescription`, `NSPhotoLibraryUsageDescription` keys in `Info.plist` of your project, because we use camera and photo library for working our sdk, otherwise will be crash.
