@@ -150,7 +150,7 @@
 		</data>
 		<key>Headers/RFRL_AI_SDK.h</key>
 		<data>
-		9L6/CFnAS5mYUOpUN3H6zSJJk9I=
+		b5RSY/6kMIqki+legpGdTnkhSt8=
 		</data>
 		<key>Headers/SDAnimatedImageRep.h</key>
 		<data>
@@ -290,11 +290,11 @@
 		</data>
 		<key>Headers/VideoCacheHelper.h</key>
 		<data>
-		9XLQsXuLUEe+BOzJVo+WtOkDGfg=
+		foI7+mliR8CqXmjixlWH3WwaR+I=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3AyVAIcG8+KINvzsLSYDC8g/MXw=
+		Dh7f7PZE2EInCLwqTAZxYYA6Vxk=
 		</data>
 		<key>MattingNS_short_03.mlmodelc/analytics/coremldata.bin</key>
 		<data>
@@ -334,11 +334,11 @@
 		</data>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		hABaNPS/iDHQ11fENl3lkVXMQps=
+		GOYHvFTQA1CzkzjqhfZRugPuFQA=
 		</data>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		u1ZuW3Hp0VXQicslTYy+puVHwic=
+		vcvig1iW/n5ZGiyzn1/llRYX9O8=
 		</data>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -346,11 +346,11 @@
 		</data>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		yQwJQuAJ8nmayiuA7SbZnYwX79w=
+		UtgeZ2ufG+UwjVTqM99dA72iQ+c=
 		</data>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		jKuG31YColK6aum2cWJt7wc4P3A=
+		K4gwzmsOu0tQZfqv1LLUNceo41Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -424,35 +424,35 @@
 		<data>
 		yHA9iL81Q2Ed1OBis/2GYbjoS8U=
 		</data>
-		<key>human_segmentation_224x224.mlmodelc/analytics/coremldata.bin</key>
+		<key>segmentation_224x224_large.mlmodelc/analytics/coremldata.bin</key>
 		<data>
-		pScDwTk6TXlD9nTyY0chLqsy3rw=
+		0NNUnVggo8GuSj9Pdd8baiXXZLY=
 		</data>
-		<key>human_segmentation_224x224.mlmodelc/coremldata.bin</key>
+		<key>segmentation_224x224_large.mlmodelc/coremldata.bin</key>
 		<data>
-		jNV7gO9z+PJPOG0tdt7zrntxbso=
+		NLr8kMuaP24nw4aOBUe4MLNz9D8=
 		</data>
-		<key>human_segmentation_224x224.mlmodelc/metadata.json</key>
+		<key>segmentation_224x224_large.mlmodelc/metadata.json</key>
 		<data>
-		eDvLB275lKKsb7OH5NcXK5+Rqe4=
+		paOSc+YxgQ1LdNri23u6wyadtUg=
 		</data>
-		<key>human_segmentation_224x224.mlmodelc/model.espresso.net</key>
+		<key>segmentation_224x224_large.mlmodelc/model.espresso.net</key>
 		<data>
-		TV6bhRee9Q5FzbqRkAwvfAEAI0o=
+		C/X6rgH4gTnyY9qS4FYNBsxpESM=
 		</data>
-		<key>human_segmentation_224x224.mlmodelc/model.espresso.shape</key>
+		<key>segmentation_224x224_large.mlmodelc/model.espresso.shape</key>
 		<data>
-		ZQ0QAD6/bxCpkpMpQsvZfWeIdP4=
+		tGESm0R6un+Xzh3g/llBlDUJbM4=
 		</data>
-		<key>human_segmentation_224x224.mlmodelc/model.espresso.weights</key>
+		<key>segmentation_224x224_large.mlmodelc/model.espresso.weights</key>
 		<data>
-		JGsGtw3EGd3+8cVS6/UZ51XrE1k=
+		iviYsjXwCe3ZKOWlYzZ8pb83VOc=
 		</data>
-		<key>human_segmentation_224x224.mlmodelc/model/coremldata.bin</key>
+		<key>segmentation_224x224_large.mlmodelc/model/coremldata.bin</key>
 		<data>
 		0vNhQZN5fIP6v89eIZvYkW6lrBg=
 		</data>
-		<key>human_segmentation_224x224.mlmodelc/neural_network_optionals/coremldata.bin</key>
+		<key>segmentation_224x224_large.mlmodelc/neural_network_optionals/coremldata.bin</key>
 		<data>
 		tkgF5pxT7RlO+9uypQti9obolyA=
 		</data>
@@ -747,7 +747,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pVTP2D/6pxE/Fj/YYR2vkfh9p1Kicj/uoYSJIoRxmOs=
+			rfevG7bPlLzjwWXrvSEpXW1DuCSMqWEVWVMquxlfP8M=
 			</data>
 		</dict>
 		<key>Headers/SDAnimatedImageRep.h</key>
@@ -992,7 +992,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yZh7Edl4/rFpeCVowZKAXeLiFs32hYb+iAZv23DCi94=
+			9wi7l91HHTXZwFt3TeVm5b4m1BDO7mlb4M/Rcb57AGM=
 			</data>
 		</dict>
 		<key>MattingNS_short_03.mlmodelc/analytics/coremldata.bin</key>
@@ -1062,14 +1062,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qCqHi9Jbv0VpV5dbl5X68G/ZlFocnEoHdzMhGKbECNU=
+			hXEdjhAlyGuc5pT/T8pqzPfRh16kfAMt42p8ahTUuCw=
 			</data>
 		</dict>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5SlEL6PN+pgeowsBkPo/ZFSzmxlR+mRUMnbv236wkNM=
+			dKSkwEbX4WNeoKVZb9CphN0xgHiJv5HzkZYdPhcTsJ8=
 			</data>
 		</dict>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -1083,14 +1083,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4FZ+PT7kDVHkcJJjYvWrXRDPwNm+cSjcjZfLWr4UVng=
+			yR+xN7CDYKaiwcl729UydWxETBpDS2+Q34qJQiR711w=
 			</data>
 		</dict>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p3EuOFGpsUNDC5m8xk/8oqaOl7E3bTv+2rgw02u1nRk=
+			67XwHObyI4MG7e73egiq85EEPWRfi1LilOYzgIZACOQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1219,56 +1219,56 @@
 			hYVdE+3LvIFuEHCi8Y9DEXYRCJo9u9a9inNmb0B0tlA=
 			</data>
 		</dict>
-		<key>human_segmentation_224x224.mlmodelc/analytics/coremldata.bin</key>
+		<key>segmentation_224x224_large.mlmodelc/analytics/coremldata.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pecD88Bbv8vU6tEapf6kcMTgI4cwIe8zz7MUsepkI3w=
+			XbwfG1i9fZtFtMWUNfu+fet0BIVw8tWTP6I7PuAfBaQ=
 			</data>
 		</dict>
-		<key>human_segmentation_224x224.mlmodelc/coremldata.bin</key>
+		<key>segmentation_224x224_large.mlmodelc/coremldata.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KcyIevQ2QhcoKnq8W2SKMe5HrN4SUlURkFmsfZUrbB4=
+			5hHFVBlIvF/dkN7O56jY84UjqfW8gdk49wlOhxfir4E=
 			</data>
 		</dict>
-		<key>human_segmentation_224x224.mlmodelc/metadata.json</key>
+		<key>segmentation_224x224_large.mlmodelc/metadata.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ia4QTspXfIBxdQdi9uDB0o2jSpH4qJOcKoIL7+T19rA=
+			OO73q4sz6KgOmF5uS+HxtVNbfUKaJdQf6SK92G4nW/s=
 			</data>
 		</dict>
-		<key>human_segmentation_224x224.mlmodelc/model.espresso.net</key>
+		<key>segmentation_224x224_large.mlmodelc/model.espresso.net</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tv9ux/LqDskvG2JA9T0huIjHc46HKrl4mhJdSbucKsg=
+			95vHuMdwC48APacEoQ29ObhgGMDVVvel/jWcPlDESYo=
 			</data>
 		</dict>
-		<key>human_segmentation_224x224.mlmodelc/model.espresso.shape</key>
+		<key>segmentation_224x224_large.mlmodelc/model.espresso.shape</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BBOr3iZTaGlBcLVRt8RdPKmro+cF9z2So0dxw3nj1N8=
+			9Fe1vPUOttdJBS1ubnvvZV1md/P7Kx9CQN6/t28Vwvk=
 			</data>
 		</dict>
-		<key>human_segmentation_224x224.mlmodelc/model.espresso.weights</key>
+		<key>segmentation_224x224_large.mlmodelc/model.espresso.weights</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K/8ZkfP+J5/XQHkIOv6qV/IfF8SptUlpoCJSoNeOCQg=
+			jDukUJIHsSIuaV9xkcCvhTcvLxD1brrsQuRVJ3P33jE=
 			</data>
 		</dict>
-		<key>human_segmentation_224x224.mlmodelc/model/coremldata.bin</key>
+		<key>segmentation_224x224_large.mlmodelc/model/coremldata.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			+ktqyKBdV8YFAHTyM3g1wtE488Jy1mHcIx3jNNcLruE=
 			</data>
 		</dict>
-		<key>human_segmentation_224x224.mlmodelc/neural_network_optionals/coremldata.bin</key>
+		<key>segmentation_224x224_large.mlmodelc/neural_network_optionals/coremldata.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>

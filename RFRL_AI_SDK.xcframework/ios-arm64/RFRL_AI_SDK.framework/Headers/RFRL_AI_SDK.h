@@ -1,20 +1,19 @@
 //
-//  MNFST_SDK.h
-//  MNFST_SDK
+//  RFRL_SDK_Sources.h
+//  RFRL_SDK_Sources
 //
-//  Created by Evgeniy Zabolotniy on 09.04.2020.
-//  Copyright © 2020 MNFST. All rights reserved.
+//  Created by Ivan Shlyapkin on 22.02.2022.
 //
 
 #import <Foundation/Foundation.h>
 
-//! Project version number for MNFST_SDK.
-FOUNDATION_EXPORT double MNFST_SDKVersionNumber;
+//! Project version number for RFRL_SDK_Sources.
+FOUNDATION_EXPORT double RFRL_SDK_SourcesVersionNumber;
 
-//! Project version string for MNFST_SDK.
-FOUNDATION_EXPORT const unsigned char MNFST_SDKVersionString[];
+//! Project version string for RFRL_SDK_Sources.
+FOUNDATION_EXPORT const unsigned char RFRL_SDK_SourcesVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <MNFST_SDK/PublicHeader.h>
+// In this header, you should import all the public headers of your framework using statements like #import <RFRL_SDK_Sources/PublicHeader.h>
 
 #import <RFRL_AI_SDK/VideoCacheHelper.h>
 #import <RFRL_AI_SDK/TSHAlphaVideoController.h>

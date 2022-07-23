@@ -1,0 +1,77 @@
+[
+  {
+    "shortDescription" : "Segmentation model for MNFST app.",
+    "metadataOutputVersion" : "3.0",
+    "outputSchema" : [
+      {
+        "hasShapeFlexibility" : "0",
+        "isOptional" : "0",
+        "dataType" : "Float32",
+        "formattedType" : "MultiArray (Float32)",
+        "shortDescription" : "Segmentation",
+        "shape" : "[]",
+        "name" : "Identity",
+        "type" : "MultiArray"
+      }
+    ],
+    "version" : "0.0.1",
+    "modelParameters" : [
+
+    ],
+    "author" : "Denis Manichkin",
+    "specificationVersion" : 5,
+    "storagePrecision" : "Float32",
+    "license" : "Apache License 2.0",
+    "computePrecision" : "Float16",
+    "isUpdatable" : "0",
+    "availability" : {
+      "macOS" : "11.0",
+      "tvOS" : "14.0",
+      "watchOS" : "7.0",
+      "iOS" : "14.0",
+      "macCatalyst" : "14.0"
+    },
+    "modelType" : {
+      "name" : "MLModelType_neuralNetwork"
+    },
+    "inputSchema" : [
+      {
+        "formattedType" : "Image (Color 224 × 224)",
+        "hasSizeFlexibility" : "1",
+        "shortDescription" : "Source frame",
+        "sizeRange" : "[[224, 224], [224, 224]]",
+        "width" : "224",
+        "type" : "Image",
+        "isColor" : "1",
+        "height" : "224",
+        "sizeFlexibility" : "224 × 224",
+        "colorspace" : "RGB",
+        "name" : "input_1",
+        "isOptional" : "0"
+      }
+    ],
+    "userDefinedMetadata" : {
+      "com.github.apple.coremltools.version" : "5.1.0",
+      "com.github.apple.coremltools.source" : "tensorflow==2.8.0-rc0"
+    },
+    "generatedClassName" : "segmentation_224x224_large",
+    "neuralNetworkLayerTypeHistogram" : {
+      "AddBroadcastable" : 6,
+      "Concat" : 5,
+      "UnaryThreshold" : 20,
+      "Convolution" : 60,
+      "InstanceBatchNorm" : 9,
+      "ActivationSigmoid" : 1,
+      "Transpose" : 1,
+      "UpsampleBiLinear" : 6,
+      "MultiplyBroadcastable" : 6,
+      "PaddingConstant" : 3,
+      "Add" : 16,
+      "Multiply" : 34,
+      "ActivationLinear" : 40,
+      "ActivationReLU" : 47,
+      "PoolingAverage" : 6
+    },
+    "method" : "predict"
+  }
+]

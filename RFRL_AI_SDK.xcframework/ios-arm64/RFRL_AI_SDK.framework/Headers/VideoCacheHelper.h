@@ -1,9 +1,9 @@
 //
 //  VideoCacheHelper.h
-//  MNFST
+//  RFRL
 //
 //  Created by Eugene Zabolotniy on 12/04/2018.
-//  Copyright © 2018 MNFST. All rights reserved.
+//  Copyright © 2018 RFRL. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

@@ -47,6 +47,21 @@ extension CoreGraphics.CGSize : Swift.Hashable {
     get
   }
 }
+@objc public protocol RFRLFlowContextDelegate {
+  @objc optional var buttonBackgroundColor: UIKit.UIColor { get }
+  @objc func didCloseCameraViewController()
+  @objc func doneButtonTapped()
+}
+@_hasMissingDesignatedInitializers public class RFRLFlowContext {
+  public var originalPhoto: UIKit.UIImage? {
+    get
+  }
+  @objc deinit
+  public func buildCameraViewController(delegate: RFRL_AI_SDK.RFRLFlowContextDelegate?) -> UIKit.UIViewController
+  public func generateCreative(completion: @escaping (RFRL_AI_SDK.RFRLMedia?) -> Swift.Void)
+  public func performImageRecognition(completion: @escaping (RFRL_AI_SDK.RecognitionResult?) -> Swift.Void)
+  public func performCreativeModeration(completion: @escaping (RFRL_AI_SDK.ModerationResult?) -> Swift.Void)
+}
 public struct RecognitionResult {
   public enum Status : Swift.String {
     case pending
@@ -95,21 +110,6 @@ extension RFRL_AI_SDK.ModerationResult.Reason : Swift.RawRepresentable {
   public var rawValue: RFRL_AI_SDK.ModerationResult.Reason.RawValue {
     get
   }
-}
-@objc public protocol RFRLFlowContextDelegate {
-  @objc optional var buttonBackgroundColor: UIKit.UIColor { get }
-  @objc func didCloseCameraViewController()
-  @objc func doneButtonTapped()
-}
-@_hasMissingDesignatedInitializers public class RFRLFlowContext {
-  public var originalPhoto: UIKit.UIImage? {
-    get
-  }
-  @objc deinit
-  public func buildCameraViewController(delegate: RFRL_AI_SDK.RFRLFlowContextDelegate?) -> UIKit.UIViewController
-  public func generateCreative(completion: @escaping (RFRL_AI_SDK.RFRLMedia?) -> Swift.Void)
-  public func performImageRecognition(completion: @escaping (RFRL_AI_SDK.RecognitionResult?) -> Swift.Void)
-  public func performCreativeModeration(completion: @escaping (RFRL_AI_SDK.ModerationResult?) -> Swift.Void)
 }
 extension RFRL_AI_SDK.RecognitionResult.Status : Swift.Equatable {}
 extension RFRL_AI_SDK.RecognitionResult.Status : Swift.Hashable {}
