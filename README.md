@@ -11,8 +11,8 @@ It is used to share functionality:
 ## Requirements
 
 - Swift 5+
-- Xcode 14.0+
-- iOS 14.0+
+- Xcode 13.0+
+- iOS 13.0+
 
 ## How to integrate
 

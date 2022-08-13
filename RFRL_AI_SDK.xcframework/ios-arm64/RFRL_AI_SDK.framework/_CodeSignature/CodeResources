@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		Lzw088s0GgrovJBfimVYV+bGysg=
+		Bj6A2MNDYEYNew2+EfDnnkohJOU=
 		</data>
 		<key>FindAFaceView.nib</key>
 		<data>
@@ -294,7 +294,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		hyMSF03MjLBisymGxkwZJKyU5JQ=
+		lXJi4ADaHsR7EGXArhjSYQIc9j4=
 		</data>
 		<key>MattingNS_short_03.mlmodelc/analytics/coremldata.bin</key>
 		<data>
@@ -330,15 +330,15 @@
 		</data>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		M7aLppotQv2JFHB6c5p7yQIimI4=
+		xSeLNcns+C1DLT4as817kx7ARIM=
 		</data>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		+tXoLzI1nf5M1Fnl5FWzDOiSLsk=
+		6xW82HAJaBYjYtCg6F5BYP7F9L0=
 		</data>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		iqoAOyqsER6sOl9SO/JX7xCbMKA=
+		4cCNmYnumleL5VoWuSHXUHEcr4E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -410,7 +410,7 @@
 		</data>
 		<key>default.metallib</key>
 		<data>
-		gsrnNXAXnQlNLq9hAMJZDfQZYNI=
+		bM5Zy3iif6PZgn+6pucmIAqKPkg=
 		</data>
 		<key>segmentation_224x224_large.mlmodelc/analytics/coremldata.bin</key>
 		<data>
@@ -483,7 +483,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pxl9nJsqkAC3njQJF62TJKG/p48xPZkvXl8mwu/CGqo=
+			ovMdQmI6525SOBqKRf+imeX3MNYnNV4F8hhSCvCA9O8=
 			</data>
 		</dict>
 		<key>FindAFaceView.nib</key>
@@ -1043,21 +1043,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0sdIcnAGb0BYxnDPODh8/P4Rd4K/VqV0MkogYli+E0o=
+			Iy8JIdFmJwr5qgRCjaNVYTFCKQL3PWbDfFcJ6TMwxqM=
 			</data>
 		</dict>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6PHFv3/e1N4blycSHuNQFhOsCeeK0VMCwMog8RlYl+s=
+			dHP0mKFjfIzz5QY3F4d12+rEcOcUnXYfDUbasYjslvQ=
 			</data>
 		</dict>
 		<key>Modules/RFRL_AI_SDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W29EiSLgwWkf7WI+a93mGJ/p+6D7BUZX4MoIgxy5NF0=
+			0FC/GNTxE1IqQWbfggpR7kpCgWz3YbIr6oan/APRKMs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1183,7 +1183,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J+NkdRcUPu//8IKihz/P9CguxXv0FTb+ebmdpzS4lW4=
+			L29muGJhpqe5rJnd8cToVrnnFRMOsovIBOvaQaQdAJU=
 			</data>
 		</dict>
 		<key>segmentation_224x224_large.mlmodelc/analytics/coremldata.bin</key>
